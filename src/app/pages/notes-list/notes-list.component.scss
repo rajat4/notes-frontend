@@ -7,9 +7,14 @@
     margin: auto;
 
     padding-top: 50px; 
-    height: 600px;
+    height: 900px;
 }
 
 .notes-list {
     margin-top: 35px;
+}
+
+app-note-card {
+    display: block;
+    margin-bottom: 25px;
 }
